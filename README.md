@@ -11,6 +11,8 @@ npm install LeafletRotatedMarkerWithShadow
 ```bash
 bower install LeafletRotatedMarkerWithShadow
 ```
+or
+You can download the file "leaflet.rotatedMarker.js" to your project.
 
 Usage
 ---
