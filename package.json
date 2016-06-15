@@ -1,16 +1,16 @@
 {
-    "name": "leaflet-rotatedmarker",
+    "name": "leaflet-rotatedmarker-with-shadow",
     "version": "0.1.0",
-    "description": "Enables rotation of marker icons in Leaflet.",
+    "description": "Enables rotation of marker icons in Leaflet with icon Shadow.",
     "main": "leaflet.rotatedMarker.js",
     "repository": {
         "type": "git",
-        "url": "git@github.com:bbecquet/Leaflet.RotatedMarker.git"
+        "url": "git@github.com:hanying33/Leaflet.RotatedMarker.git"
     },
     "author": {
-        "name": "Benjamin Becquet",
-        "email": "benjamin.becquet@gmail.com",
-        "url": "http://bbecquet.net"
+        "name": "Hanying",
+        "email": "",
+        "url": ""
     },
     "license": "MIT"
 }
