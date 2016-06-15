@@ -6,10 +6,10 @@ Enables rotation of marker icons in Leaflet, and also rotation of marker shadow 
 Compatible with versions 0.7.* and 1.* of Leaflet. Doesn't work on IE < 9.
 
 ```bash
-npm install leaflet-rotatedmarker-with-shadow
+npm install LeafletRotatedMarkerWithShadow
 ```
 ```bash
-bower install leaflet-rotatedmarker-with-shadow
+bower install LeafletRotatedMarkerWithShadow
 ```
 
 Usage
