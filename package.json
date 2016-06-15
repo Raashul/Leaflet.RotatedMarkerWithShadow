@@ -1,5 +1,5 @@
 {
-    "name": "leafletRotatedMarkerWithShadow",
+    "name": "LeafletRotatedMarkerWithShadow",
     "version": "0.1.0",
     "description": "Enables rotation of marker icons in Leaflet with icon Shadow.",
     "main": "leaflet.rotatedMarker.js",
